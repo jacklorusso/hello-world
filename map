@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paris"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.371501922607422,
+          48.854433949050254
+        ]
+      }
+    }
+  ]
+}
