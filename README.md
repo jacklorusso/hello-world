@@ -1,3 +1,5 @@
-# hello-world
+# 👋 🌍
 
-GeoJSON data from our backpacking trip around the world.
+GeoJSON data from our backpacking trip
+
+~6 months / ~20 countries
